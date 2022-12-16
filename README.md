@@ -1,6 +1,4 @@
-# A one day codeing challenge
-### im probs gonna update over the comming weeks
-
+# pc aplication version of YoyloNerd budgeting app as
 ## run 
 ~~~
 cd ./server && npm install 
